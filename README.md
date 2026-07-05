@@ -70,7 +70,7 @@ I'm a passionate **14-year-old developer** from **Nepal** who loves turning comp
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiwasKhatri07&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiwasKhatri07&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -110,6 +110,10 @@ I'm a passionate **14-year-old developer** from **Nepal** who loves turning comp
 </div>
 
 <!-- SEO Optimized Metadata -->
+<meta name="description" content="Official GitHub profile of Diwas Khatri, a top 14-year-old software developer from Tilottama, Nepal. Expert in Python, Automation, and AI. Discover my projects and coding journey.">
+<meta name="keywords" content="Diwas Khatri, Diwas Khatri Nepal, Diwas Khatri Tilottama, 14 Year Old Developer Nepal, Python Developer Nepal, DiwasKhatri07 GitHub, Best GitHub Profile Nepal, Software Wizard, Coding Journey Nepal, Top Python Programmer Nepal, Open Source Nepal, Tilottama Tech">
+<meta name="author" content="Diwas Khatri">
+<title>Diwas Khatri | Software Developer from Nepal</title>
 <!-- 
 Keywords: Diwas Khatri, Diwas Khatri Nepal, Diwas Khatri Tilottama, 14 Year Old Developer Nepal, Python Developer Nepal, DiwasKhatri07 GitHub, Best GitHub Profile Nepal, Software Wizard, Coding Journey Nepal, Top Python Programmer Nepal
 Description: Professional GitHub profile of Diwas Khatri, a 14-year-old software enthusiast from Tilottama, Nepal. Focused on Python, Automation, and building innovative tech solutions.
