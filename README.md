@@ -43,13 +43,11 @@ I enjoy turning random ideas into real projects. Some are polished, some are exp
 
 <img src="https://github-readme-stats.vercel.app/api?username=DiwasKhatri07&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&title_color=58A6FF&icon_color=BC8CFF&text_color=C9D1D9&bg_color=0D1117&border_color=30363D" alt="Diwas Khatri's GitHub stats" />
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiwasKhatri07&layout=compact&langs_count=8&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&border_color=30363D" alt="Diwas Khatri's most used languages" />
+
 <br />
 
 <img src="https://streak-stats.demolab.com?user=DiwasKhatri07&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=BC8CFF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Diwas Khatri's contribution streak" />
-
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DiwasKhatri07&bg_color=0D1117&color=58A6FF&line=BC8CFF&point=FFFFFF&area_color=7C3AED&area=true&hide_border=false&custom_title=Diwas%27s%20Commit%20Activity" alt="Diwas Khatri's GitHub contribution graph" />
 
 </div>
 
@@ -58,10 +56,6 @@ I enjoy turning random ideas into real projects. Some are polished, some are exp
 - **19** followers
 - **890,152** measured physical lines across public, non-fork repositories
 - **3,977** LeetCode solutions listed in my solutions repository
-
-> “There are only two hard things in computer science: naming things, cache invalidation, and convincing myself not to add one more feature.”
-
-> “A clean commit history is just a suspiciously well-hidden crime scene.”
 
 ## Skills & Stack
 
@@ -90,29 +84,11 @@ I enjoy turning random ideas into real projects. Some are polished, some are exp
 
 <div align="center">
 
-```text
-┌──(diwas㉿github)-[~/contact]
-└─$ ./connect.sh
-
-  name       : Diwas Khatri
-  location   : Tilottama, Nepal
-  website    : https://dev.diwasxd.info
-  github     : https://github.com/DiwasKhatri07
-  linkedin   : https://www.linkedin.com/in/diwaskhatri/
-  youtube    : https://youtube.com/@gatewaymaker
-  email      : diwaskhatri@proton.me
-  status     : open to ideas, projects, and good conversations
-
-  response   : usually fast
-  priority   : interesting > urgent
-  exception  : “quick calls” that become 3-hour architecture sessions
-```
-
-</div>
-
-<div align="center">
-
-[Website](https://dev.diwasxd.info) · [GitHub](https://github.com/DiwasKhatri07) · [LinkedIn](https://www.linkedin.com/in/diwaskhatri/) · [YouTube](https://youtube.com/@gatewaymaker) · [Email](mailto:diwaskhatri@proton.me)
+[![Website](https://img.shields.io/badge/Website-dev.diwasxd.info-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dev.diwasxd.info)
+[![GitHub](https://img.shields.io/badge/GitHub-DiwasKhatri07-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DiwasKhatri07)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Diwas%20Khatri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diwaskhatri/)
+[![YouTube](https://img.shields.io/badge/YouTube-GatewayMaker-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@gatewaymaker)
+[![Email](https://img.shields.io/badge/Email-Proton-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:diwaskhatri@proton.me)
 
 </div>
 
