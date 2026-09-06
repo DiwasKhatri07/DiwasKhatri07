@@ -93,7 +93,7 @@ I build across **Python, web development, automation, AI, browser extensions, AP
 <div align="center">
   <img src="https://img.shields.io/badge/Public%20repositories-25-58A6FF?style=for-the-badge&logo=github" alt="25 public repositories" />
   <img src="https://img.shields.io/badge/Measured%20code-890%2C152%20lines-7C3AED?style=for-the-badge&logo=git" alt="890,152 measured code lines" />
-  <img src="https://img.shields.io/badge/Stars%20collected-17-F59E0B?style=for-the-badge&logo=github" alt="17 total repository stars" />
+  <img src="https://img.shields.io/badge/Stars%20collected-33-F59E0B?style=for-the-badge&logo=github" alt="33 total repository stars" />
 </div>
 
 > **890,152 physical lines** were measured across the latest snapshots of 20 public, non-fork repositories with `cloc`; the scan includes repository source and documentation and excludes `.git` metadata. Because repositories evolve, this number is a snapshot — useful, but not important enough to develop an ego.
