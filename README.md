@@ -5,7 +5,7 @@
   </picture>
 </a>
 
-## Hi, I'm Diwas 👋
+## Hi, I'm Diwas Khatri 👋
 
 ---
 
@@ -22,15 +22,15 @@
 
 ## About Me
 
-I’m **Diwas Khatri**, a developer from **Tilottama, Nepal**. I build things with Python, JavaScript, TypeScript, Kotlin, automation, web technologies, APIs, browser extensions, and AI tools.
+I’m **Diwas Khatri**, a Lazyest People  from **Tilottama, Nepal**. I build things with Python, Java , JavaScript . I am Pro AI User And Pro Bugz Creator . 
 
-I enjoy turning random ideas into real projects. Some are polished, some are experimental, and some exist mainly to prove that I could make them.
+I Am Professional Bug Creator , **CTRL + C = CTRL + V = Engineer** . I am Simple Learner Also .
 
 > “Cooking code, serving bugs.”
 
 <div align="center">
 
-![Bug status](https://img.shields.io/badge/BUGS-negotiable-BC8CFF?style=for-the-badge&logo=bugatti&logoColor=white)
+![Bug status](https://img.shields.io/badge/BUGS-CREATOR-BC8CFF?style=for-the-badge&logo=bugatti&logoColor=white)
 ![Coffee powered](https://img.shields.io/badge/POWERED%20BY-coffee-58A6FF?style=for-the-badge&logo=buymeacoffee&logoColor=white)
 ![Works on my machine](https://img.shields.io/badge/WORKS%20ON-my%20machine-F59E0B?style=for-the-badge&logo=windows&logoColor=white)
 ![Production ready](https://img.shields.io/badge/PRODUCTION-ready%20enough-7C3AED?style=for-the-badge&logo=github&logoColor=white)
@@ -52,7 +52,7 @@ I enjoy turning random ideas into real projects. Some are polished, some are exp
 - **25** public repositories
 - **24** total repository stars
 - **19** followers
-- **890,152** measured physical lines across public, non-fork repositories
+- **890,155** measured physical lines across public, non-fork repositories
 - **3,977** LeetCode solutions listed in my solutions repository
 
 ## Skills & Stack
@@ -89,7 +89,7 @@ github   -> DiwasKhatri07
 linkedin -> diwaskhatri
 youtube  -> @gatewaymaker
 email    -> diwaskhatri@proton.me
-status   -> open to good ideas
+status   -> LAZYEST 
 ```
 
 [Website](https://dev.diwasxd.info) · [GitHub](https://github.com/DiwasKhatri07) · [LinkedIn](https://www.linkedin.com/in/diwaskhatri/) · [YouTube](https://youtube.com/@gatewaymaker) · [Email](mailto:diwaskhatri@proton.me)
