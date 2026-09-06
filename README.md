@@ -41,13 +41,17 @@ I enjoy turning random ideas into real projects. Some are polished, some are exp
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DiwasKhatri07&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&title_color=58A6FF&icon_color=BC8CFF&text_color=C9D1D9&bg_color=0D1117&border_color=30363D" alt="Diwas Khatri's GitHub stats" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DiwasKhatri07&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&title_color=58A6FF&icon_color=BC8CFF&text_color=C9D1D9&bg_color=0D1117&border_color=30363D" alt="Diwas Khatri's GitHub stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiwasKhatri07&layout=compact&langs_count=8&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&border_color=30363D" alt="Diwas Khatri's most used languages" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DiwasKhatri07&layout=compact&langs_count=8&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&border_color=30363D" alt="Diwas Khatri's most used languages" />
 
 <br />
 
 <img src="https://streak-stats.demolab.com?user=DiwasKhatri07&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=BC8CFF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Diwas Khatri's contribution streak" />
+
+<br />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DiwasKhatri07&theme=github_dark" alt="Diwas Khatri's contribution graph and profile details" />
 
 </div>
 
