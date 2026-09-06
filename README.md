@@ -50,7 +50,7 @@ I enjoy turning random ideas into real projects. Some are polished, some are exp
 </div>
 
 - **25** public repositories
-- **33** total repository stars
+- **24** total repository stars
 - **19** followers
 - **890,152** measured physical lines across public, non-fork repositories
 - **3,977** LeetCode solutions listed in my solutions repository

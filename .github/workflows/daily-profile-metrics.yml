@@ -1,0 +1,53 @@
+name: Daily Profile Metrics
+
+on:
+  schedule:
+    # 00:15 UTC = 05:45 Nepal time.
+    - cron: "15 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh-profile:
+    name: Refresh profile metrics and contribution graph
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Count public code lines
+        id: code
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PROFILE_OWNER: DiwasKhatri07
+        run: |
+          lines=$(python scripts/count_code_lines.py | tail -n 1)
+          echo "code_lines=$lines" >> "$GITHUB_OUTPUT"
+
+      - name: Refresh local stats and contribution assets
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          PROFILE_OWNER: DiwasKhatri07
+          CODE_LINES: ${{ steps.code.outputs.code_lines }}
+        run: python scripts/update_profile_metrics.py
+
+      - name: Commit only if metrics changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md github-stats.svg contributions.svg
+          if git diff --cached --quiet; then
+            echo "No profile changes detected."
+          else
+            git commit -m "chore: refresh profile metrics [skip ci]"
+            git push
+          fi
