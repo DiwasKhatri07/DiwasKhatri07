@@ -90,10 +90,29 @@ I enjoy turning random ideas into real projects. Some are polished, some are exp
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-dev.diwasxd.info-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dev.diwasxd.info)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Diwas%20Khatri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diwaskhatri/)
-[![YouTube](https://img.shields.io/badge/YouTube-GatewayMaker-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@gatewaymaker)
-[![Email](https://img.shields.io/badge/Email-Proton-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:diwaskhatri@proton.me)
+```text
+┌──(diwas㉿github)-[~/contact]
+└─$ ./connect.sh
+
+  name       : Diwas Khatri
+  location   : Tilottama, Nepal
+  website    : https://dev.diwasxd.info
+  github     : https://github.com/DiwasKhatri07
+  linkedin   : https://www.linkedin.com/in/diwaskhatri/
+  youtube    : https://youtube.com/@gatewaymaker
+  email      : diwaskhatri@proton.me
+  status     : open to ideas, projects, and good conversations
+
+  response   : usually fast
+  priority   : interesting > urgent
+  exception  : “quick calls” that become 3-hour architecture sessions
+```
+
+</div>
+
+<div align="center">
+
+[Website](https://dev.diwasxd.info) · [GitHub](https://github.com/DiwasKhatri07) · [LinkedIn](https://www.linkedin.com/in/diwaskhatri/) · [YouTube](https://youtube.com/@gatewaymaker) · [Email](mailto:diwaskhatri@proton.me)
 
 </div>
 
