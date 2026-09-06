@@ -11,14 +11,14 @@
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=DiwasKhatri07&label=PROFILE%20VIEWS&color=blueviolet&style=flat-square)](https://github.com/DiwasKhatri07)
-[![Followers](https://img.shields.io/github/followers/DiwasKhatri07?label=FOLLOWERS&color=007acc&style=flat-square&logo=github)](https://github.com/DiwasKhatri07?tab=followers)
-[![Public Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FDiwasKhatri07&query=%24.public_repos&label=PUBLIC%20REPOSITORIES&color=f6b93b&style=flat-square&logo=github)](https://github.com/DiwasKhatri07?tab=repositories)
-[![Total Stars](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FDiwasKhatri07%2Frepos%3Fper_page%3D100&query=%24%5B*%5D.stargazers_count&label=GITHUB&message=33%20STARS&color=58A6FF&style=flat-square&logo=github)](https://github.com/DiwasKhatri07?tab=repositories&sort=stargazers)
+[![Profile Views](https://komarev.com/ghpvc/?username=DiwasKhatri07&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square)](https://github.com/DiwasKhatri07)
+[![Followers](https://img.shields.io/github/followers/DiwasKhatri07?label=FOLLOWERS&color=58A6FF&style=flat-square&logo=github)](https://github.com/DiwasKhatri07?tab=followers)
+[![Public Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FDiwasKhatri07&query=%24.public_repos&label=PUBLIC%20REPOSITORIES&color=BC8CFF&style=flat-square&logo=github)](https://github.com/DiwasKhatri07?tab=repositories)
+[![Total Stars](https://img.shields.io/badge/GITHUB-33%20STARS-F59E0B?style=flat-square&logo=github)](https://github.com/DiwasKhatri07?tab=repositories&sort=stargazers)
 
 </div>
 
-![Typing Animation](https://readme-typing-svg.demolab.com/?font=Poppins&size=32&duration=2200&pause=900&color=4CAF50&center=true&vCenter=true&width=1100&height=100&lines=Professional+bug+creator;Ctrl%2BC+%E2%86%92+Ctrl%2BV+engineer;99.1%25+pure+spaghetti+code;Currently+cooking+random+projects.)
+![Typing Animation](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=2200&pause=900&color=58A6FF&center=true&vCenter=true&width=1100&height=100&lines=Professional+bug+negotiator;I+turn+coffee+into+commits;It+works%2C+please+do+not+touch+it;Currently+debugging+my+debugger;Building+features+nobody+asked+for.)
 
 ## About Me
 
@@ -28,15 +28,28 @@ I enjoy turning random ideas into real projects. Some are polished, some are exp
 
 > “Cooking code, serving bugs.”
 
+<div align="center">
+
+![Bug status](https://img.shields.io/badge/BUGS-negotiable-BC8CFF?style=for-the-badge&logo=bugatti&logoColor=white)
+![Coffee powered](https://img.shields.io/badge/POWERED%20BY-coffee-58A6FF?style=for-the-badge&logo=buymeacoffee&logoColor=white)
+![Works on my machine](https://img.shields.io/badge/WORKS%20ON-my%20machine-F59E0B?style=for-the-badge&logo=windows&logoColor=white)
+![Production ready](https://img.shields.io/badge/PRODUCTION-ready%20enough-7C3AED?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
 ## GitHub Stats
 
 <div align="center">
 
-<img src="https://readme-two-sand.vercel.app/api?username=DiwasKhatri07&show_icons=true&hide_title=true&count_private=true&theme=dark&hide_border=true" alt="Diwas Khatri's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=DiwasKhatri07&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&title_color=58A6FF&icon_color=BC8CFF&text_color=C9D1D9&bg_color=0D1117&border_color=30363D" alt="Diwas Khatri's GitHub stats" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=DiwasKhatri07&theme=dark&hide_border=true" alt="Diwas Khatri's contribution streak" />
+<img src="https://streak-stats.demolab.com?user=DiwasKhatri07&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=BC8CFF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Diwas Khatri's contribution streak" />
+
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DiwasKhatri07&bg_color=0D1117&color=58A6FF&line=BC8CFF&point=FFFFFF&area_color=7C3AED&area=true&hide_border=false&custom_title=Diwas%27s%20Commit%20Activity" alt="Diwas Khatri's GitHub contribution graph" />
 
 </div>
 
@@ -45,6 +58,10 @@ I enjoy turning random ideas into real projects. Some are polished, some are exp
 - **19** followers
 - **890,152** measured physical lines across public, non-fork repositories
 - **3,977** LeetCode solutions listed in my solutions repository
+
+> “There are only two hard things in computer science: naming things, cache invalidation, and convincing myself not to add one more feature.”
+
+> “A clean commit history is just a suspiciously well-hidden crime scene.”
 
 ## Skills & Stack
 
