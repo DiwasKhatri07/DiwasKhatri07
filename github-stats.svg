@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-labelledby="title desc">
-<title id="title">DiwasKhatri07 GitHub statistics</title><desc id="desc">27 public repositories, 35 stars, 22 followers, 3343 contributions.</desc>
+<title id="title">DiwasKhatri07 GitHub statistics</title><desc id="desc">29 public repositories, 39 stars, 22 followers, 3362 contributions.</desc>
 <rect width="900" height="300" rx="18" fill="#0d1117" stroke="#30363d"/>
 <text x="34" y="42" fill="#58a6ff" font-family="monospace" font-size="21" font-weight="700">github --stats --auto</text>
 <text x="34" y="70" fill="#8b949e" font-family="monospace" font-size="14">DiwasKhatri07 · refreshed by GitHub Actions</text>
 <line x1="34" y1="88" x2="866" y2="88" stroke="#30363d"/>
 <g font-family="monospace" text-anchor="middle">
-<text x="130" y="137" fill="#bc8cff" font-size="28" font-weight="700">27</text><text x="130" y="162" fill="#8b949e" font-size="13">PUBLIC REPOS</text>
-<text x="320" y="137" fill="#f0883e" font-size="28" font-weight="700">35</text><text x="320" y="162" fill="#8b949e" font-size="13">TOTAL STARS</text>
+<text x="130" y="137" fill="#bc8cff" font-size="28" font-weight="700">29</text><text x="130" y="162" fill="#8b949e" font-size="13">PUBLIC REPOS</text>
+<text x="320" y="137" fill="#f0883e" font-size="28" font-weight="700">39</text><text x="320" y="162" fill="#8b949e" font-size="13">TOTAL STARS</text>
 <text x="510" y="137" fill="#58a6ff" font-size="28" font-weight="700">22</text><text x="510" y="162" fill="#8b949e" font-size="13">FOLLOWERS</text>
-<text x="700" y="137" fill="#3fb950" font-size="28" font-weight="700">3343</text><text x="700" y="162" fill="#8b949e" font-size="13">CONTRIBUTIONS</text>
+<text x="700" y="137" fill="#3fb950" font-size="28" font-weight="700">3362</text><text x="700" y="162" fill="#8b949e" font-size="13">CONTRIBUTIONS</text>
 </g>
 <text x="34" y="213" fill="#c9d1d9" font-family="monospace" font-size="14">top languages</text>
-<text x="34" y="244" fill="#58a6ff" font-family="monospace" font-size="16">TypeScript (7) · Python (6) · JavaScript (2) · Astro (1) · HTML (1)</text>
-<text x="34" y="275" fill="#8b949e" font-family="monospace" font-size="13">147,005 measured code lines · refreshed daily</text>
+<text x="34" y="244" fill="#58a6ff" font-family="monospace" font-size="16">Python (7) · TypeScript (7) · JavaScript (3) · Astro (1) · HTML (1)</text>
+<text x="34" y="275" fill="#8b949e" font-family="monospace" font-size="13">154,127 measured code lines · refreshed daily</text>
 </svg>
