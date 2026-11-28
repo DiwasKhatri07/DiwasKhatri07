@@ -5,7 +5,7 @@
   </picture>
 </a>
 
-## Hi, I'm Diwas Khatri 👋
+## Hi, MySelf Mr::) Diwas Khatri 👋
 
 ---
 
@@ -26,7 +26,7 @@ I’m **Diwas Khatri**, a Lazyest People  from **Tilottama, Nepal**. I build thi
 
 I Am Professional Bug Creator , **CTRL + C = CTRL + V = Engineer** . I am Simple Learner Also .
 
-> “Cooking code, serving bugs.”
+> “Cooking code, Prompting Bugs”
 
 <div align="center">
 
@@ -55,7 +55,7 @@ I Am Professional Bug Creator , **CTRL + C = CTRL + V = Engineer** . I am Simple
 - **890,155** measured physical lines across public, non-fork repositories
 - **3,977** LeetCode solutions listed in my solutions repository
 
-## Skills & Stack
+## Skills :))
 
 <div align="center">
 
@@ -71,12 +71,9 @@ I Am Professional Bug Creator , **CTRL + C = CTRL + V = Engineer** . I am Simple
 
 </div>
 
-## What I’m Currently Doing
+## What I’m Currently Doing :(}
 
-- Building practical tools and automation projects.
-- Exploring AI-assisted development and data-driven applications.
-- Improving my Python, TypeScript, Kotlin, and full-stack skills.
-- Making projects that start with “this will be quick” and end with 14 extra features.
+- Time wasting In Ai and Coding :(.
 
 ## Connect With Me
 
@@ -99,5 +96,5 @@ status   -> LAZYEST
 ---
 
 <div align="center">
-  <i>Still learning. Still building. Still debugging.</i>
+  <i>Still learning. Still building. Still Prompting.</i>
 </div>
